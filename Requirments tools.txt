@@ -1,0 +1,10 @@
+prerequisties---
+
+-> install pycharm
+-> install cmake
+-> install c++ tool kit for installing dlib
+-> install dlib
+-> install numpy
+-> install pandas
+-> install OpenCv
+-> install face_recognition
